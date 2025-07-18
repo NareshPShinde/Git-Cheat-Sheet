@@ -9,7 +9,9 @@
 | `git add <file>`                      | Add changes in a file to the staging area.     |
 | `git commit -m "message"`             | Commit staged changes with a descriptive message.|
 | `git status`                          | View the status of your working directory.      |
-
+| `git branch -M <branch_name>          | rename current branch name ,                    
+|                                        | -M :force rename the branch (even if the target name is already exists).|
+ 
 ## Configuration
 
 | Command                               | Description                                     |
